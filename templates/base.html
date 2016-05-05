@@ -10,7 +10,8 @@
     <meta name="summary" content="Austin Ogilvie Blog" />
 	<meta property="og:image" content="http://f.cl.ly/items/0d2Z1z3Z3E2z3Y1g1K0J/logo-square.png"/>
 	<meta property="og:site_name" content="hernamesbarbara"/>
-	<link rel="stylesheet" href="{{ STATIC_URL }}/css/style.css">
+	
+	<link rel="stylesheet" href="{% static '/css/style.css' %}">
 
 	{% block header %}
 	<title>Welcome</title>
@@ -24,7 +25,8 @@
 
 	{% block scripts %}
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-	<script src="{{ STATIC_URL }}/js/main.js"></script>
+	
+	<script src="{% static '/js/main.js' %}"></script>
 	{% endblock %}
 </body>
 </html>

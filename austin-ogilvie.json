@@ -1,13 +1,21 @@
 {
     "name": "Austin Ogilvie",
-    "company": "Yhat, Inc.",
-    "title": "Founder & CEO",
-    "location": "Brooklyn, NY",
+    "title": "Founder",
+    "company": {
+        "url": "https://yhat.com",
+        "name": "Yhat, Inc.",
+        "location": "Brooklyn, NY"
+    },
     "alma mater": "University of Virginia",
-    "interests": ["adventure sports", "bluegrass", "the Internet"],
+    "location": "Brooklyn, NY",
     "email": "a [at] yhathq [dot] com",
-    "twitter": "@austinogilvie",
     "github": "hernamesbarbara",
+    "twitter": "@austinogilvie",
+    "interests": [
+        "adventure sports",
+        "bluegrass",
+        "the Internet"
+    ],
     "favorite quote": "Texas is bigger than France.",
-    "msg": "hello world"
+    "My publicly-auditable identity": "keybase.io/hernamesbarbara"
 }
