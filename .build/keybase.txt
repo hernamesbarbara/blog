@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/hernamesbarbara
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://hernamesbarbara.com
+  * I am hernamesbarbara (https://keybase.io/hernamesbarbara) on keybase.
+  * I have a public key with fingerprint 8D83 4863 3195 7A45 4D2C  9BEF BE6B 90F3 C6E1 8518
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101f8e16f0a35b8f3532ae7fc20e02c1b59eaeea26a5a7abcd721d64b5db2d4c7530a",
+            "fingerprint": "8d83486331957a454d2c9befbe6b90f3c6e18518",
+            "host": "keybase.io",
+            "key_id": "be6b90f3c6e18518",
+            "kid": "0101f8e16f0a35b8f3532ae7fc20e02c1b59eaeea26a5a7abcd721d64b5db2d4c7530a",
+            "uid": "0ce228b83e521b30d1e5bea00eb6b500",
+            "username": "hernamesbarbara"
+        },
+        "service": {
+            "hostname": "hernamesbarbara.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1462507267,
+    "expire_in": 157680000,
+    "prev": "5bd602e9640aa46fdabbbcafe3669b858d886a542f948446f4d3796abc1104d7",
+    "seqno": 20,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMM9AnicrZJtUFRVGMd35SVBFCdTSQ3qwhjQRvf93t1SwBlpTF6GmGIqcj3n3nPZ
+G3f3rrvLAtGmQo4lFDJjwAhlhcGwha1SKDOBmcgIkQ5kvEyKIDJJioNhDc1Idq/W
+Nz925syct9//f57znKd7aZAh3NhVsH+uZ2JPlPGHU58XGnJNq4NKMaiKJZilFCtA
+9wakiMjtsRbIImbBcAInJB4RrIQDioG8RDEUCRAnCSSOcFIgIGNGACFAsoABHICC
+yJGEyNKQESEp0gLHUDjATJgkO/KRy+mSHR7Nlhd5iuZZiiLMDAdohhZJwQyRBBEL
+zbhECSwieIbgNaFNdesKLTgI3ChJVrU9bWG9F94D+P857sL7dgIiSR7yFGJIAlK4
+SCAGIoDjCLKQwXEddCOXA9iRRtvuz9wQuLQOMJ8J0w69soD0/OoPejCYJKh2zcnp
+Uj2qoCo64PE4LbreU+LUBUUIWv+1skLZIWpJ1QRe5HLLqgOzEBopeGTdm6BZksE5
+kuVMGCp2yi5klXWC4Vge15p+DfJqlgwUWZxEZpbGAaBZSQQQQgFIiGJZM+QZ7at4
+LUc0KZlpntYAWqQ4M6tljCBwWuQw/XE7HCpmITVTD8jXPN1yvgN4Cl0I831/Ki/Y
+YAw3hIYs0qvNEB62/L8azHo28q6y3b9xUtz+ydPNtyo6fltQptrPDSzUnVgLL+Qq
+Mw9xTaFTgxHrroCRgHq7bKy5tLGr6mvX8NVNK0et/cEJm80zT77Q9sfluWceH48p
+udN4oCa0cW6r5Xr2yt1XYPWWXaajaHJT2Hpvmj1kyRmluQrj+5dMREbVv+cfG1/T
+tLsj8q/D+a3lCRtyQmFK3nBLyom147irx7ixCR2b64v1TCpRbzx3pvp9/89Sz+zd
+I53XOnPauG3e1EDgKaN62HIzNlU87b/8fI7RNVi5ep33Vovj4w+Q1Hot7Oadn2In
+In/5bIo2SWDeN6+cfHVra/r0qoFlq8qgMGTtrmt+2XvyzZ740orpZd8Fyus6lnc9
+9lFD4t8pNW+PRVdEGYyxv9/ovXHefiTrYHhT9T5+Z9yUf8JW8+3BR0Z7g6jJVzJt
+k3/WryjIzLiUmNZqOuQ7mrz3eknCbOiKDceTjWlCePqi1OLX420Xw1L4ttTiyiKV
+2lW7+XZ2/9XoDGmNz2mb35srfJP17qcz9V5j8BP7i6IifqTKj4+0Byr9Slwg2j6f
+uX6orWq08lJtzNKR3IUL+/J25APvae5Y+5ePNtr5PcWJGS+d38JlL45Rf02PPbt4
+YHwbHOx7+GJmWmdt/DuHlNkqb4rSO4QaYuJesysj3W8VHxhuaBl5seyL5HOtc31f
+hTnOfjg8HZG0M+QfnAPIjA==
+=rPsi
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hernamesbarbara
+
+==================================================================
+
