@@ -4,9 +4,9 @@ https://keybase.io/hernamesbarbara
 
 I hereby claim:
 
-  * I am an admin of http://www.hernamesbarbara.com
+  * I am an admin of http://hernamesbarbara.com
   * I am hernamesbarbara (https://keybase.io/hernamesbarbara) on keybase.
-  * I have a public key with fingerprint 8D83 4863 3195 7A45 4D2C  9BEF BE6B 90F3 C6E1 8518
+  * I have a public key ASBNgwRtGg4pDHHeCunrWwJMwZixRhJVWJlGM93jgPb_rAo
 
 To do so, I am signing this object:
 
@@ -14,57 +14,37 @@ To do so, I am signing this object:
     "body": {
         "key": {
             "eldest_kid": "0101f8e16f0a35b8f3532ae7fc20e02c1b59eaeea26a5a7abcd721d64b5db2d4c7530a",
-            "fingerprint": "8d83486331957a454d2c9befbe6b90f3c6e18518",
             "host": "keybase.io",
-            "key_id": "be6b90f3c6e18518",
-            "kid": "0101f8e16f0a35b8f3532ae7fc20e02c1b59eaeea26a5a7abcd721d64b5db2d4c7530a",
+            "kid": "01204d83046d1a0e290c71de0ae9eb5b024cc198b146125558994633dde380f6ffac0a",
             "uid": "0ce228b83e521b30d1e5bea00eb6b500",
             "username": "hernamesbarbara"
         },
         "service": {
-            "hostname": "www.hernamesbarbara.com",
+            "hostname": "hernamesbarbara.com",
             "protocol": "http:"
         },
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1462507514,
-    "expire_in": 157680000,
-    "prev": "3f9031f6215bf929fdf046c14c54aa0e1ba2d83faa5cc49d0e720e7194fd80c6",
-    "seqno": 21,
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.14"
+    },
+    "ctime": 1462507821,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1462507772,
+        "hash": "b5c683338b02914a7ae7c0aee03464179b7b90a63633656f1cc100fb3e6f0a2246b12abdcb9e3f874fecd7f467f9892a525c3d15191b4a4891aa6d3d2454f3fe",
+        "seqno": 458001
+    },
+    "prev": "5e8c45c4e6540c8476d1c000b07329f71a63276fddf34dad126b7df6996f96bb",
+    "seqno": 26,
     "tag": "signature"
 }
 
 which yields the signature:
 
------BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.0.53
-Comment: https://keybase.io/crypto
-
-yMNHAnicrZJtUFRVGMcXJEbAQE1lmZqEOw5Gs6z3/d5dYxonXsNBl8hF0Nhz7z13
-ubDsXfcVUhppsDUdR9KcyaARKkxBJYsBiSK2IZRhLEDIGUGiBnS2lhElMRmD7qJ9
-afrYmTNz3v7/33nOc56ep5epIkO6Smtme385oA7p9511qYya2Pm9CCcLFYh+L1IK
-lwZoEaDDWVQqCYgeQTEUE1mI0SIKCIpjRYIicAAZkcdRiOI8xlE6CCAEOA0owACO
-FxgcE2iSowQOF0ieoQgUIBpElKxmaLfZJatTwbICS5AsTRCYjmIASZECzus4KHKQ
-5nSoSPA0xFgKYxVjsewIOpTgOOCAWklW9pRF0VJ4/6H/n+N2PcbxEMdZjiUghWMc
-gQoYpDgIUBRyNEehaFDogHYrKIOKuvjxzMEBu9IBUqlBlEO3xMNgfoMPeiL0eDza
-f4m1vFym0Gx22SnzsiVIczpt+iDDWWFbMkGu6AmuiJOsgpJYxeCGdockWxE9pih5
-pxTkYySNUyhDYaQGgeU2yQ6LpKCCYmgWVVrwGuhWkISoQwlMpHGM4kQdrhMFESVp
-HiN5igQAhRgHcOXHRAAonid1AgoZJY0MpiNFgUV5Ggk+cI9VRvQ4psQJzArTIZmt
-wOmyQ6TyO9+uMFVIpCr8qdBgxakiI1b+U4dYaMwCm2swSdjKnfEB/8NPjkabjJ3+
-Iy3MrjzvyRYqyrVFXX7VP3nhxdk59ej5phMm3xn76HzdHsdoseWzwJWxP28X/OZe
-2PF5xrXUsG8f7bhiXnvafTHpvuT17N7fAdO814RVP3Tb5+OFwkHb8+MaX556e0pq
-+uWGWqdh8K1LUvq+1JdK9ZnLX0k/7Bn+NLTgg5SRsPLWpkRPQt+dOPhzR5rxxLap
-3c0NQNJ3DEXdOqhuzcz58EHopb86ux8VJlSnRN+fGZvqnMiu955bHGqXj70a4y80
-xFXVVh5/9pStMXNu7PzbXRnfC8lZt3qT449KvupU/0Ae7s+72WeO+qaipGBiqPCr
-jJ6M0eJ+88vH5JrLP23NP77O+IxrxSnxufxfLWtWN4bPRcUt3ut2y691jf04c3d8
-Z3KubfV4dfPIYK6hwfDlui5N25a2xQHX9rLapm5TdGtCXE27b9K7OXVjPThkKjMe
-XpYUCtfcm117YMNi5XQgsW9by3tJqg7V1xtON9aFl6lj88/AguHcm5Orkr7oz24P
-eaM59sHGQ3de32dntDfO3q1zbWo7yfQarlfFzCYeRNe7GpcXmPsbZrjpwB8R70yY
-et68fU5YkZW10Oa4OjX8PrG4SfvCQETOxevOG1Wbfy8xDk9bVD0lFyzV784m7k/K
-/MibFmnLHkkJfBzyMCeQm7l1vbb+b4Q7z34=
-=BsF3
------END PGP MESSAGE-----
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgTYMEbRoOKQxx3grp61sCTMGYsUYSVViZRjPd44D2/6wKp3BheWxvYWTFAwJ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZjhlMTZmMGEzNWI4ZjM1MzJhZTdmYzIwZTAyYzFiNTllYWVlYTI2YTVhN2FiY2Q3MjFkNjRiNWRiMmQ0Yzc1MzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNGQ4MzA0NmQxYTBlMjkwYzcxZGUwYWU5ZWI1YjAyNGNjMTk4YjE0NjEyNTU1ODk5NDYzM2RkZTM4MGY2ZmZhYzBhIiwidWlkIjoiMGNlMjI4YjgzZTUyMWIzMGQxZTViZWEwMGViNmI1MDAiLCJ1c2VybmFtZSI6Imhlcm5hbWVzYmFyYmFyYSJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiaGVybmFtZXNiYXJiYXJhLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTQifSwiY3RpbWUiOjE0NjI1MDc4MjEsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ2MjUwNzc3MiwiaGFzaCI6ImI1YzY4MzMzOGIwMjkxNGE3YWU3YzBhZWUwMzQ2NDE3OWI3YjkwYTYzNjMzNjU2ZjFjYzEwMGZiM2U2ZjBhMjI0NmIxMmFiZGNiOWUzZjg3NGZlY2Q3ZjQ2N2Y5ODkyYTUyNWMzZDE1MTkxYjRhNDg5MWFhNmQzZDI0NTRmM2ZlIiwic2Vxbm8iOjQ1ODAwMX0sInByZXYiOiI1ZThjNDVjNGU2NTQwYzg0NzZkMWMwMDBiMDczMjlmNzFhNjMyNzZmZGRmMzRkYWQxMjZiN2RmNjk5NmY5NmJiIiwic2Vxbm8iOjI2LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQOXCbRt/RChiEPd9K+jzj9olZt/dWDzTEBhAud0TjsVR7IUO3RM86M1Vgk2LUkNEj8f6wuCyVGcG25sDE4CDHgqoc2lnX3R5cGUgo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
