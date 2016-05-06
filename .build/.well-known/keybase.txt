@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/hernamesbarbara
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://hernamesbarbara.com
+  * I am hernamesbarbara (https://keybase.io/hernamesbarbara) on keybase.
+  * I have a public key ASBNgwRtGg4pDHHeCunrWwJMwZixRhJVWJlGM93jgPb_rAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101f8e16f0a35b8f3532ae7fc20e02c1b59eaeea26a5a7abcd721d64b5db2d4c7530a",
+            "host": "keybase.io",
+            "kid": "01204d83046d1a0e290c71de0ae9eb5b024cc198b146125558994633dde380f6ffac0a",
+            "uid": "0ce228b83e521b30d1e5bea00eb6b500",
+            "username": "hernamesbarbara"
+        },
+        "service": {
+            "hostname": "hernamesbarbara.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.14"
+    },
+    "ctime": 1462507821,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1462507772,
+        "hash": "b5c683338b02914a7ae7c0aee03464179b7b90a63633656f1cc100fb3e6f0a2246b12abdcb9e3f874fecd7f467f9892a525c3d15191b4a4891aa6d3d2454f3fe",
+        "seqno": 458001
+    },
+    "prev": "5e8c45c4e6540c8476d1c000b07329f71a63276fddf34dad126b7df6996f96bb",
+    "seqno": 26,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgTYMEbRoOKQxx3grp61sCTMGYsUYSVViZRjPd44D2/6wKp3BheWxvYWTFAwJ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZjhlMTZmMGEzNWI4ZjM1MzJhZTdmYzIwZTAyYzFiNTllYWVlYTI2YTVhN2FiY2Q3MjFkNjRiNWRiMmQ0Yzc1MzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNGQ4MzA0NmQxYTBlMjkwYzcxZGUwYWU5ZWI1YjAyNGNjMTk4YjE0NjEyNTU1ODk5NDYzM2RkZTM4MGY2ZmZhYzBhIiwidWlkIjoiMGNlMjI4YjgzZTUyMWIzMGQxZTViZWEwMGViNmI1MDAiLCJ1c2VybmFtZSI6Imhlcm5hbWVzYmFyYmFyYSJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiaGVybmFtZXNiYXJiYXJhLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTQifSwiY3RpbWUiOjE0NjI1MDc4MjEsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ2MjUwNzc3MiwiaGFzaCI6ImI1YzY4MzMzOGIwMjkxNGE3YWU3YzBhZWUwMzQ2NDE3OWI3YjkwYTYzNjMzNjU2ZjFjYzEwMGZiM2U2ZjBhMjI0NmIxMmFiZGNiOWUzZjg3NGZlY2Q3ZjQ2N2Y5ODkyYTUyNWMzZDE1MTkxYjRhNDg5MWFhNmQzZDI0NTRmM2ZlIiwic2Vxbm8iOjQ1ODAwMX0sInByZXYiOiI1ZThjNDVjNGU2NTQwYzg0NzZkMWMwMDBiMDczMjlmNzFhNjMyNzZmZGRmMzRkYWQxMjZiN2RmNjk5NmY5NmJiIiwic2Vxbm8iOjI2LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQOXCbRt/RChiEPd9K+jzj9olZt/dWDzTEBhAud0TjsVR7IUO3RM86M1Vgk2LUkNEj8f6wuCyVGcG25sDE4CDHgqoc2lnX3R5cGUgo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hernamesbarbara
+
+==================================================================
