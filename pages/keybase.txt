@@ -4,7 +4,7 @@ https://keybase.io/hernamesbarbara
 
 I hereby claim:
 
-  * I am an admin of http://www.hernamesbarbara.com
+  * I am an admin of http://hernamesbarbara.com.s3-website-us-east-1.amazonaws.com
   * I am hernamesbarbara (https://keybase.io/hernamesbarbara) on keybase.
   * I have a public key with fingerprint 8D83 4863 3195 7A45 4D2C  9BEF BE6B 90F3 C6E1 8518
 
@@ -22,16 +22,16 @@ To do so, I am signing this object:
             "username": "hernamesbarbara"
         },
         "service": {
-            "hostname": "www.hernamesbarbara.com",
+            "hostname": "hernamesbarbara.com.s3-website-us-east-1.amazonaws.com",
             "protocol": "http:"
         },
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1462507514,
+    "ctime": 1462507650,
     "expire_in": 157680000,
-    "prev": "3f9031f6215bf929fdf046c14c54aa0e1ba2d83faa5cc49d0e720e7194fd80c6",
-    "seqno": 21,
+    "prev": "48f43cc4779996d0358103ee31cfcd05d8ca6a2092fb46f74a025fca615e47f6",
+    "seqno": 22,
     "tag": "signature"
 }
 
@@ -41,29 +41,29 @@ which yields the signature:
 Version: Keybase OpenPGP v2.0.53
 Comment: https://keybase.io/crypto
 
-yMNHAnicrZJtUFRVGMcXJEbAQE1lmZqEOw5Gs6z3/d5dYxonXsNBl8hF0Nhz7z13
-ubDsXfcVUhppsDUdR9KcyaARKkxBJYsBiSK2IZRhLEDIGUGiBnS2lhElMRmD7qJ9
-afrYmTNz3v7/33nOc56ep5epIkO6Smtme385oA7p9511qYya2Pm9CCcLFYh+L1IK
-lwZoEaDDWVQqCYgeQTEUE1mI0SIKCIpjRYIicAAZkcdRiOI8xlE6CCAEOA0owACO
-FxgcE2iSowQOF0ieoQgUIBpElKxmaLfZJatTwbICS5AsTRCYjmIASZECzus4KHKQ
-5nSoSPA0xFgKYxVjsewIOpTgOOCAWklW9pRF0VJ4/6H/n+N2PcbxEMdZjiUghWMc
-gQoYpDgIUBRyNEehaFDogHYrKIOKuvjxzMEBu9IBUqlBlEO3xMNgfoMPeiL0eDza
-f4m1vFym0Gx22SnzsiVIczpt+iDDWWFbMkGu6AmuiJOsgpJYxeCGdockWxE9pih5
-pxTkYySNUyhDYaQGgeU2yQ6LpKCCYmgWVVrwGuhWkISoQwlMpHGM4kQdrhMFESVp
-HiN5igQAhRgHcOXHRAAonid1AgoZJY0MpiNFgUV5Ggk+cI9VRvQ4psQJzArTIZmt
-wOmyQ6TyO9+uMFVIpCr8qdBgxakiI1b+U4dYaMwCm2swSdjKnfEB/8NPjkabjJ3+
-Iy3MrjzvyRYqyrVFXX7VP3nhxdk59ej5phMm3xn76HzdHsdoseWzwJWxP28X/OZe
-2PF5xrXUsG8f7bhiXnvafTHpvuT17N7fAdO814RVP3Tb5+OFwkHb8+MaX556e0pq
-+uWGWqdh8K1LUvq+1JdK9ZnLX0k/7Bn+NLTgg5SRsPLWpkRPQt+dOPhzR5rxxLap
-3c0NQNJ3DEXdOqhuzcz58EHopb86ux8VJlSnRN+fGZvqnMiu955bHGqXj70a4y80
-xFXVVh5/9pStMXNu7PzbXRnfC8lZt3qT449KvupU/0Ae7s+72WeO+qaipGBiqPCr
-jJ6M0eJ+88vH5JrLP23NP77O+IxrxSnxufxfLWtWN4bPRcUt3ut2y691jf04c3d8
-Z3KubfV4dfPIYK6hwfDlui5N25a2xQHX9rLapm5TdGtCXE27b9K7OXVjPThkKjMe
-XpYUCtfcm117YMNi5XQgsW9by3tJqg7V1xtON9aFl6lj88/AguHcm5Orkr7oz24P
-eaM59sHGQ3de32dntDfO3q1zbWo7yfQarlfFzCYeRNe7GpcXmPsbZrjpwB8R70yY
-et68fU5YkZW10Oa4OjX8PrG4SfvCQETOxevOG1Wbfy8xDk9bVD0lFyzV784m7k/K
-/MibFmnLHkkJfBzyMCeQm7l1vbb+b4Q7z34=
-=BsF3
+yMNcAnicrVJrTBRXFGatbYFgeAQL1ELSKYhNdpd5z+xqKA2tCTWUUAFR1OXOzJ3d
+ycrusjMsCFILxVBKaUFqKzY2lVCwsWkQKBogUpQFdPHRxJZoqYXYiooUFPoABDqj
+7T9/9uYm995zv8c5J6d/zVN+gboz9trZgfEDkTpf31CB3zZ9ZHkJwjmFvYi5BLHD
+RwfcI0BZsdglATEjKIZiIgsxWkQBQXGsSFAEDiAj8jgKUZzHOMoEAYQApwEFGMDx
+AoNjAk1ylMDhAskzFIECRI+IksMK3S635FBUWVZgCZKlCQIzUQwgKVLAeRMHRQ7S
+nAkVCZ6GGEthrEq0OWWNoSbHARkaJacaUx+WR+k9Af8/513wWI6HOM5yLAEpHOMI
+VMAgxUGAopCjOQpFNaAM3Q6QB1W07fFN5oBb3QAp1SPqp0fiodZfraAnA428M88o
+E4ZCyMmSAg0FsgECWTFgRpAHip0OUChrENXM5XYqTt65R9NQFJdZs1D2ujRNlWz5
+183CSQ5B7btK8EC3LDkdiBlTkbwiafYYSeMUytAUqkdgkUtyQ4ukISiGZlF1aTbQ
+o0qSrEgSPE8yjMlkogWUoFgMJSAkMF7kBZQSWB7QAEdNuMiRtMiQAMUpUY1hFCQZ
+kUa0+vMdTsSM42qewKpqypLVAZQCN0RKz/btXO2nC/R75ulV2kD6BQaE/Dem8K3g
+lfTt47bF7vSLyS9ZvtnU5a04ZJn96XbvFl/Zw8+VqtCFof4zb/JvbAkKDHuvZ/dX
+fbvyR5Km9Du7Erx15pg/PcEvN+v2p6xuuC4s9e54sHYiu/znrAttr/5xbWR+OO7Z
++/El8VGpZcWDR2NHfr3hCkht9no/CIhPuJWQddqxOWJZWq6//qB239B6e7K9+lh4
+xG8JFfkd7z738dYDr68t4po2TPxw5dqquuwrLSnb0sbIOyetoUmORVPj6Yb2q4OT
+lrbbK/yLvlf+zrpbNW0/P1BU9SMzOXp1rq09sc6web6pvfPSWPCp32Mqx1ukCvl4
+ZM/BKF1YzKaBGjpudiZ6a3pEa9BN57rkKZ1PWFC6QuZOZRdEde8YbGkdWqAjThpD
+Oql99y9Zl+LWeOwb6u7Gd0W/PYzPGM97S7EjOa7i70+YuSkFu5lLnYifqF406oLv
+2Y42jueezWbCl8YG7o0khOvDdoV8Fl2fSR0+fjjT/0J75zq86J3BY5O20NqcVEOK
+ewCWxUwXXjbQCyt/feSrOWRa8nY8758bYB1zS0nfTn45GtPhSwzKnB++kVy58XKG
+PTHtk/3VtbH1BzPE97tji6aTM/qj5z7Myf9ifQq5cTLn3G7/1t68Fyq7pZkj/XRA
+zac5v9xpbDfYRi8Gveba/rCwtpxohhXJMzJI83z9Xc9yU13Drdi8c5n/APKv3Zo=
+=yNoD
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
